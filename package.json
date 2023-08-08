@@ -1,0 +1,25 @@
+{
+  "name": "polling_api",
+  "version": "1.0.0",
+  "description": "Real-time Polling API: Seamlessly integrate our API to create, manage, and analyze polls. Instantly gather valuable insights and engage audiences through interactive and dynamic polling experiences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skyboy14/Polling_API.git"
+  },
+  "author": "Akash_Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  },
+  "bugs": {
+    "url": "https://github.com/Skyboy14/Polling_API/issues"
+  },
+  "homepage": "https://github.com/Skyboy14/Polling_API#readme"
+}
