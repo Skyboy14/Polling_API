@@ -4,7 +4,13 @@
 "Real-time Polling API: Seamlessly integrate our API to create, manage, and analyze polls. Instantly gather valuable insights and engage audiences through interactive and dynamic polling experiences."
 
 ## TechStack
-Node JS, Express, MongoDB
+Node JS, Express, MongoDB, postman tool
+
+## start Project
+
+Git clone the repo: git clone https://github.com/Skyboy14/Polling_API.git
+install all the necessary packages: npm i
+start the app: node index.js
 
 
 ## Features
